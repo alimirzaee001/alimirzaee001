@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alimirzaee@aut.ac.ir**
 
-- 🌐 This is my (Portfolio)[https://alimirzaee001.github.io/]
+- 🌐 This is my [Portfolio](https://alimirzaee001.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
